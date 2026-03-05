@@ -1,0 +1,22 @@
+.login-card {
+  width: 450px;
+  border-radius: 12px;
+  background: #fff;
+}
+
+button {
+  width: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn:hover i,
+.btn:hover a {
+  color: red;
+}
+
+button:hover {
+  border: 1px solid red !important;
+}
